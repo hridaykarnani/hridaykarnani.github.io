@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Hriday Karnani</title>
+    <link>/tag/academic/</link>
+      <atom:link href="/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>Acknowledgments</title>
+      <link>/post/acknowledgments/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/post/acknowledgments/</guid>
+      <description>&lt;p&gt;Throughout my academic journey, I have been immensely fortunate to cross paths with exceptional professors who have played pivotal roles in shaping my growth and fostering my passion for learning.&lt;/p&gt;
+&lt;p&gt;As I look back on the moments that have brought me to where I am today, I am filled with deep appreciation for the professors who have generously shared their knowledge and wisdom with me.&lt;/p&gt;
+&lt;p&gt;In this post you will find some of them. I encourage you to explore their work and accomplishments.&lt;/p&gt;
+&lt;div style=&#34;display: flex; justify-content: space-around;&#34;&gt;
+  &lt;figure style=&#34;width: 200px;&#34;&gt;
+    &lt;a href=&#34;https://sites.google.com/view/craddatzk/homepage&#34;&gt;
+      &lt;img src=&#34;craddatz.jpeg&#34; alt=&#34;Claudio Raddatz&#34; style=&#34;width: 100%; height: 200px;&#34;&gt;
+      &lt;figcaption&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://sites.google.com/view/craddatzk/homepage&#34;&gt;Claudio Raddatz&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/figcaption&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&#34;width: 200px;&#34;&gt;
+    &lt;a href=&#34;https://sites.google.com/site/alejandrobernalesfinance/&#34;&gt;
+      &lt;img src=&#34;abernales.jpeg&#34; alt=&#34;Alejandro Bernales&#34; style=&#34;width: 100%; height: 200px;&#34;&gt;
+      &lt;figcaption&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://sites.google.com/site/alejandrobernalesfinance/&#34;&gt;Alejandro Bernales&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/figcaption&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&#34;width: 200px;&#34;&gt;
+    &lt;a href=&#34;https://sites.google.com/site/cokeconphd/&#34;&gt;
+      &lt;img src=&#34;jmp.jpeg&#34; alt=&#34;Jorge Miranda-Pinto&#34; style=&#34;width: 100%; height: 200px;&#34;&gt;
+      &lt;figcaption&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://sites.google.com/site/cokeconphd/&#34;&gt;Jorge Miranda-Pinto&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/figcaption&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applying to Pre-Docs</title>
+      <link>/post/app_predocs/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/post/app_predocs/</guid>
+      <description>&lt;p&gt;Under construction.&lt;/p&gt;
+&lt;div class=&#34;spoiler &#34; &gt;
+  &lt;p&gt;
+    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-0&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-0&#34;&gt;
+      Click to view the spoiler
+    &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-0&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+      Good luck!
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h4&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
